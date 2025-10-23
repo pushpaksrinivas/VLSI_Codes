@@ -1,4 +1,4 @@
-
+//multi bit adder (this is 4bit adder using instances)
 
 module mfadd(
 input [3:0] a,b,cint,
