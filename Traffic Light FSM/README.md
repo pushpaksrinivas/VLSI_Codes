@@ -843,10 +843,9 @@ Digilent Nexys A7 FPGA development board.
 
  # 👨‍💻 Author
 
- **Your Name**
+ **Pushpak Srinivas**
 
- - GitHub: `https://github.com/<your-username>`
-- LinkedIn: `https://linkedin.com/in/<your-profile>`
+ - GitHub: `https://github.com/pushpaksrinivas`
 
 ---
 
